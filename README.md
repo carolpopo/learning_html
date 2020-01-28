@@ -22,3 +22,5 @@ $ python3 server.py
   ...
 </head>
 ```
+"Comando para rodar arquivo."
+python3 -m http.server 3000 
